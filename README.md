@@ -21,7 +21,7 @@ Step 1: Download mini conda from this site (https://docs.anaconda.com/free/minic
 
 Step 2: Conda install (conda install -c conda-forge intake-esgf) for the Intake ESGF Catalog - for CMIP6 models
 
-Step 3: Conda install (conda install -c conda-forge intake) - for ILAMB (International Land Benchmarking Package) to grab the skill scores (NEED TO STILL DO THIS)
+Step 3: Conda install (conda install -c conda-forge intake) - for ILAMB (International Land Benchmarking Package) to grab the skill scores
 
 Step 4: Install remaining libraries (ie matplotlib and ipywidgets)
 
